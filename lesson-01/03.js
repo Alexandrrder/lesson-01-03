@@ -1,4 +1,4 @@
-let sum = 1;
+let sum = 0;
 
 let i = 1;
 
